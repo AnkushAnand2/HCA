@@ -1,0 +1,12 @@
+| Disease              | Symptoms                                                | Criticality_Level | Category                   | Effective_Treatment                                    | Consult_Doctor |
+|----------------------|---------------------------------------------------------|-------------------|----------------------------|--------------------------------------------------------|----------------|
+| Influenza            | Fever, Cough, Sore throat, Fatigue                      | Moderate          | Viral Infection            | Rest, Hydration, Antiviral medications                 | Yes            |
+| Diabetes Type 2      | Frequent urination, Increased thirst, Fatigue           | Chronic           | Metabolic Disorder         | Diet control, Exercise, Insulin therapy, Metformin     | Yes            |
+| Hypertension         | High blood pressure, Headache, Dizziness                | Chronic           | Cardiovascular Disease     | Lifestyle changes, Antihypertensive medications        | Yes            |
+| Pneumonia            | Fever, Chills, Cough with phlegm, Chest pain            | Severe            | Respiratory Infection      | Antibiotics, Oxygen therapy if needed                  | Yes            |
+| Migraine             | Severe headache, Nausea, Sensitivity to light and sound | Moderate          | Neurological Disorder      | Pain relievers, Lifestyle modifications                | If severe      |
+| Asthma               | Shortness of breath, Wheezing, Chest tightness          | Chronic           | Respiratory Condition      | Bronchodilators, Inhaled steroids                      | Yes            |
+| Heart Attack         | Chest pain, Shortness of breath, Nausea, Cold sweats    | Critical          | Cardiovascular Disease     | Immediate medical intervention, Blood thinners         | Immediately    |
+| Tuberculosis         | Chronic cough, Weight loss, Night sweats, Fever         | Severe            | Bacterial Infection        | Antibiotics, Long-term medication                      | Yes            |
+| Alzheimer\'s Disease | Memory loss, Confusion, Difficulty completing tasks     | Chronic           | Neurodegenerative Disorder | Supportive care, Cognitive therapy                     | Yes            |
+| COVID-19             | Fever, Cough, Loss of taste/smell, Shortness of breath  | Severe            | Viral Infection            | Antiviral drugs, Oxygen therapy, Ventilation if severe | Yes            |
